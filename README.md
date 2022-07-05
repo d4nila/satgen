@@ -8,7 +8,7 @@ The program generates a SQLite3 database with information about satellites and t
 2. Celestrak
 ## Installing
 
-    $ git clone https://github.com/danilalugovoy/satellitegen
+    $ git clone https://github.com/btfspace/satellitegen
     $ cd satellitegen
     $ python3 -m pip install crayons requests tqdm
 ## Using
